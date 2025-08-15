@@ -2,6 +2,10 @@
 
 A modern, feature-rich web application built with Next.js 15, Tailwind CSS 4, and shadcn/ui components. This project demonstrates best practices for building scalable React applications with a beautiful, responsive design and dark mode support.
 
+<img width="1853" height="802" alt="image" src="https://github.com/user-attachments/assets/63d79f72-5b33-4ceb-b4c6-9baeb6b1a08a" />
+<img width="1720" height="846" alt="image" src="https://github.com/user-attachments/assets/b180c98a-958d-4c73-8d67-dd8bf13c3ab4" />
+
+
 ## ✨ Features
 
 - **Next.js 15** - Latest version with App Router and Server Components
